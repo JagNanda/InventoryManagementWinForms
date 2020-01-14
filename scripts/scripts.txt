@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[Departments] (
+    [Department_Id]          INT          IDENTITY (1, 1) NOT NULL,
+    [Department_Name]        VARCHAR (20) NOT NULL,
+    [Department_Description] VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Department_Id] ASC)
+);
+
+CREATE TABLE [dbo].[Item]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Item_Name] VARCHAR(30) NOT NULL, 
+    [Item_Quantity] INT NOT NULL, 
+    [Department_Id] INT NOT NULL, 
+    CONSTRAINT [FK_Item_Department] FOREIGN KEY ([Department_Id]) REFERENCES [Departments]([Department_Id])
+)
+

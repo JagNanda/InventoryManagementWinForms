@@ -1,0 +1,11 @@
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Main.resources
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.AddDepartmentForm.resources
+C:\Users\Jag-N\Documents\Sheridan\May 2019 (Semester 4)\C# and .NET\Assignments\Final Assignment\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.AddItemForm.resources

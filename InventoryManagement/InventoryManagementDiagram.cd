@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InventoryManagement.AddDepartmentForm">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAoQCAgABAAAACAAAACAACAACAAAQAABAQAAAA=</HashCode>
+      <FileName>AddDepartmentForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Main" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InventoryManagement.AddItemForm">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAICECQABgAACAAAACIAGAAAACAQAARAAAEAA=</HashCode>
+      <FileName>AddItemForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Main" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InventoryManagement.DatabaseLogic">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAABACAAAAAAAAAAAAQAAIAAAQAAMAAAABAAAAAA=</HashCode>
+      <FileName>DatabaseLogic.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Main" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InventoryManagement.Department">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAggAAEAAAgAAAAAAAAAAAAAQAABAAAAgA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Main" />
+      <Property Name="DatabaseLogic" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InventoryManagement.Item">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAMAAAAIABAAAAAgAAAAAAAEAABAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Main" />
+      <Property Name="DatabaseLogic" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="InventoryManagement.Main">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>UAAEKBDAADICBBgIALiAAAAPNFBAAMAILABwJQRADAg=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
