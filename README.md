@@ -1,9 +1,10 @@
 # InventoryManagementWinForms
 
-A simple Inventory Management App created using Windows Forms(C#) and Sql Server.
+A simple Inventory Management App created using Windows Forms(C#) and CRUD operations in Sql Server.
 
 ## Departments
-![departments](https://user-images.githubusercontent.com/47337941/72380426-5e8d0e00-36e3-11ea-9fad-74e18fa11b35.png)
+![department](https://user-images.githubusercontent.com/47337941/72381096-c1cb7000-36e4-11ea-9331-442217cc5f74.png)
+
 
 
 
@@ -13,11 +14,12 @@ A simple Inventory Management App created using Windows Forms(C#) and Sql Server
 
 
 ## Add Items
-![AddItem](https://user-images.githubusercontent.com/47337941/72380520-985e1480-36e3-11ea-94b4-9eaec3f30040.PNG)
+![AddItems](https://user-images.githubusercontent.com/47337941/72380988-9052a480-36e4-11ea-8e76-fd4586fbee80.PNG)
 
 
 
 ## Filter Items
-![filtereditems](https://user-images.githubusercontent.com/47337941/72380543-a875f400-36e3-11ea-92a5-c02709c15ed2.PNG)
+![filtered items](https://user-images.githubusercontent.com/47337941/72381027-a496a180-36e4-11ea-9cf6-c9fcd10038ab.PNG)
+
 
 
